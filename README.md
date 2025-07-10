@@ -8,8 +8,8 @@
 - 🛰️ Aerospace & Defense Systems – landing gears, brackets, digital twins
 
 ## 🔧 Projects (2025 R&D Portfolio)
-- [🔩 Bracket Design + FEA](https://github.com/yourusername/bracket-fea)
--[ 🛩️ Predicting Aerodynamic Noise from Airfoil](https://github.com/yourusername/airfoil-noise-ml)
+- [🔩 Bracket Design + FEA](https://github.com/neelayjain02/bracket-fea)
+-[ 🛩️ Predicting Aerodynamic Noise from Airfoil](https://github.com/neelayjain02/airfoil-noise-ml)
 
 ## 📫 Let’s Connect!
 - 📧 neelayjain957@email.com
