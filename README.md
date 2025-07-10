@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Neelay Jain
 
-<!--
-**Neelayjain02/Neelayjain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A Mechanical Engineering student passionate about Aerospace, R&D, and Simulation.
 
-Here are some ideas to get you started:
+## 🧠 What I Work On
+- 🛠️ CAD | FEA | CFD using SolidWorks, ANSYS, SimScale
+- 📊 Python + Data Science for Aero/Mech simulations
+- 🛰️ Aerospace & Defense Systems – landing gears, brackets, digital twins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects (2025 R&D Portfolio)
+- [🔩 Bracket Design + FEA](https://github.com/yourusername/bracket-fea)
+
+## 📫 Let’s Connect!
+- 📧 neelayjain957@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/neelayjain21)
+
+---
