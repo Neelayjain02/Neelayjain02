@@ -9,6 +9,7 @@
 
 ## 🔧 Projects (2025 R&D Portfolio)
 - [🔩 Bracket Design + FEA](https://github.com/yourusername/bracket-fea)
+-[ 🛩️ Predicting Aerodynamic Noise from Airfoil](https://github.com/yourusername/airfoil-ml)
 
 ## 📫 Let’s Connect!
 - 📧 neelayjain957@email.com
